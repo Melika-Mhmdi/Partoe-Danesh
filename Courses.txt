@@ -1,0 +1,7 @@
+159,1,course1,90,sunday,7:30,98/7/5,98/10/5,900,amiri,null
+159,5,course1,90,sunday,7:30,98/7/5,98/10/5,900,amiri,null
+159,5,course1,90,sunday,7:30,98/7/5,98/10/5,900,amiri,null
+254,3,course1,90,sunday,7:30,98/7/5,98/10/5,900,amiri,null
+343,4,course1,70,sunday,7:30,98/7/5,98/10/5,700,amiri,null
+343,4,course1,70,sunday,7:30,98/7/5,98/10/5,700,amiri,null
+343,5,course1,90,sunday,7:30,98/7/5,98/10/5,900,amiri,null
